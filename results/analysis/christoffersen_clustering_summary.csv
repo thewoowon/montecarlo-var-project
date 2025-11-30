@@ -1,0 +1,2 @@
+total_violations,total_days,violation_rate,n_clusters,max_cluster_size,avg_cluster_size,avg_gap_days,LR_ind,p_value,p_violation_given_no_prior,p_violation_given_prior
+72,1438,0.05006954102920723,60,4,1.2,23.83050847457627,14.264057807873769,0.00015886973182299702,0.04395604395604396,0.16666666666666666

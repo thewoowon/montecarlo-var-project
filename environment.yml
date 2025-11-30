@@ -1,0 +1,13 @@
+name: mc-var-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - tqdm
+  - pip
+  - pip:
+      - yfinance

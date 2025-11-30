@@ -1,0 +1,3 @@
+comparison,both_fail,only_method1,only_method2,both_pass,mcnemar_stat,p_value,significant
+MC vs QMC-Sobol,72,0,0,1366,0,1.0,False
+MC vs QMC-Halton,72,0,0,1366,0,1.0,False
